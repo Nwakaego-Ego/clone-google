@@ -6,11 +6,6 @@
      list-style: none;
  } 
 
- .gmail {
-     border-radius: 50px;
-     border: 8px;
-     background-color:green; 
- }
 
  header{
      padding-right:50px;
@@ -57,7 +52,6 @@ a {
     float: right;
     cursor: pointer;
     margin-top: 10px;
- 
   }
 
   .pin{
@@ -126,14 +120,7 @@ a {
      align-items: center;
  }
 
- /* .button {
-     display: flex;
-     justify-content: space-between;
-     width: 20vw;
-     /* border: 50px; */
-     /* margin-bottom: 100px; */
-     /* margin-bottom: 100px; */
- } */
+ 
 
  .footer {
      display: flex;
@@ -141,8 +128,7 @@ a {
      width: 40vw;
      justify-content: space-between;
      flex-direction: row;
-     /* justify-content: inherit; */
-     /* justify-content: center; */
+     
      align-items: center;
      text-decoration: none;
      list-style: none;
@@ -167,18 +153,4 @@ a {
  }
  
 
- /* .searchbar {
-    width: 100px;
-    padding-left: 45px;
-    padding-right: 60px;
-    border-radius: 30px; 
- }
-
- /* .pin .voice {
-     position: absolute;
-     top: 0;
-     display: flex;
-     align-items: center;
-     justify-items: center;
-     height: 100%;
- }
+ 
